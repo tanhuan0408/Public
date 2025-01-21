@@ -1,0 +1,5 @@
+virtualenv==20.2.1
+-r /usr/local/airflow/dags/codeartifact.txt
+lucid-airflow-dag-utils==0.0.20
+pandas
+boto3

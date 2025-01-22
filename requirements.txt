@@ -8,3 +8,4 @@ numpy
 glob
 XGBoost
 Sklearn
+Collections

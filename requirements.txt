@@ -9,3 +9,4 @@ glob
 XGBoost
 Sklearn
 Collections
+Dataclasses

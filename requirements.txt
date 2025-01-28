@@ -10,3 +10,4 @@ XGBoost
 snowflake
 Athena
 Scipy
+shapely

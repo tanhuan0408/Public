@@ -11,3 +11,4 @@ snowflake
 Athena
 Scipy
 shapely
+openCV

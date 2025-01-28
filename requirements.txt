@@ -9,3 +9,4 @@ glob
 XGBoost
 snowflake
 Athena
+Scipy
